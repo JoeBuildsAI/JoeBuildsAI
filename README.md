@@ -41,11 +41,19 @@ The objective is simple: reduce friction, eliminate manual dependency, and build
 - Data and integration architecture
 - Applied AI product development
 
-## Projects
+## Selected Systems
 
-- Legal Tech
-- Medical AI
-- Personal Brand Website
+### Scheduled Reporting
+Automated reporting infrastructure designed for reliable generation, validation, scheduling, and delivery of operational reporting.
+
+### Injury Standardization
+Structured-data and workflow architecture for normalizing injury information across downstream systems and reporting.
+
+### EIB Review
+Internal review and reporting architecture designed to turn complex operational data into structured, auditable workflows.
+
+### MIKE Internal
+Internal AI platform and systems architecture focused on secure enterprise AI experimentation, infrastructure, and workflow integration.
 
 ## Find me
 
