@@ -9,6 +9,10 @@
 </p>
 
 <p align="center">
+  <em>Same shit. Higher level.</em>
+</p>
+
+<p align="center">
   <code>Legal Tech</code> ·
   <code>AI</code> ·
   <code>Automation</code> ·
@@ -42,10 +46,12 @@ Outside of work, I build AI products, experiment with medical-tech ideas, and wo
 
 | Project | What it is |
 | --- | --- |
-| [legal-tech](https://github.com/JoeBuildsAI/legal-tech) | Practical experiments in legal AI, automation, architecture, and workflow design. |
-| [roguelike-game](https://github.com/JoeBuildsAI/roguelike-game) | A fast first-person roguelite built in Unreal Engine. Different realities. Same mission. |
-| [medical-ai](https://github.com/JoeBuildsAI/medical-ai) | Experiments around AI-assisted healthcare workflows and structured data. |
+| Legal Tech | Practical experiments in legal AI, automation, architecture, and workflow design. |
+| Roguelike Game | A fast first-person roguelite built in Unreal Engine. Different realities. Same mission. |
+| Medical AI | Experiments around AI-assisted healthcare workflows and structured data. |
 | [personal-brand-website](https://github.com/JoeBuildsAI/personal-brand-website) | Personal site, case studies, products, technical writing, and things I actually shipped. |
+
+<sub>A few of these live in private repos for now. When they're ready for daylight, they'll show up on the site.</sub>
 
 ## The operating system
 
@@ -69,27 +75,6 @@ OUTPUT
   shipped to production
   (usually)
 ```
-
-## The toolbox
-
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-  <img alt="Unreal Engine" src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat&logo=unrealengine&logoColor=white" />
-  <img alt="Salesforce" src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white" />
-  <img alt="OpenAI" src="https://img.shields.io/badge/LLMs_&_AI-412991?style=flat&logo=openai&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-</p>
-
-## By the numbers
-
-<p align="center">
-  <img height="165" alt="Joe's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=JoeBuildsAI&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
-  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoeBuildsAI&layout=compact&hide_border=true&theme=tokyonight" />
-</p>
 
 ## Find me
 
