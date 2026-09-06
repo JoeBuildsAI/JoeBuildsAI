@@ -1,86 +1,57 @@
 <p align="center">
-  <img src="./assets/profile-banner.png" alt="JoeBuildsAI — Ideas, Code, Real World, Impact" width="100%" />
+  <img src="./assets/profile-banner.png" alt="Joseph Wilkinson — Full-Stack AI/ML Architect" width="100%" />
 </p>
 
 <h1 align="center">Joseph Wilkinson</h1>
 
 <p align="center">
-  <strong>Legal-tech architect by day. AI everything by night. Roguelikes when I should be sleeping.</strong>
+  <strong>Full-Stack AI/ML Architect · Systems · Automation · Enterprise Technology</strong>
 </p>
 
 <p align="center">
-  <em>Same shit. Higher level.</em>
-</p>
-
-<p align="center">
-  <code>Legal Tech</code> ·
-  <code>AI</code> ·
+  <code>AI/ML</code> ·
+  <code>Full Stack</code> ·
+  <code>Systems Architecture</code> ·
   <code>Automation</code> ·
+  <code>Integrations</code> ·
+  <code>Data</code> ·
   <code>Salesforce</code> ·
-  <code>Python</code> ·
-  <code>C++</code> ·
-  <code>Unreal Engine</code>
+  <code>Python</code>
 </p>
 
 ---
 
-## What I build
+I architect and ship production systems across AI/ML, full-stack applications, enterprise automation, integrations, and data.
 
-I design and ship systems where **law, AI, automation, data, and software engineering** collide.
+My work sits where operational complexity is high, systems are fragmented, and reliability actually matters.
 
-At work, that usually means turning messy legal workflows into systems that are faster, safer, easier to report on, and considerably less dependent on someone remembering which spreadsheet controls reality.
+## What I Build
 
-Outside of work, I build AI products, experiment with medical-tech ideas, and work on a first-person roguelite because apparently one technical domain was not enough.
+I design systems that move from architecture to production.
 
-> **I automate lawyers so they can get back to arguing.**
+My work spans AI/ML, full-stack application development, enterprise integrations, workflow automation, data architecture, and internal platforms.
 
-## Current quest log
+The objective is simple: reduce friction, eliminate manual dependency, and build systems that hold up under real operational pressure.
 
-- Building practical legal-AI workflows and integrations
-- Turning repetitive operations into boring, reliable automation
-- Prototyping AI products that solve actual workflow problems
-- Building a fast first-person roguelite in Unreal Engine
-- Occasionally discovering that the "tiny edge case" was, in fact, the whole project
+## Current Backlog
 
-## Selected builds
+- Production AI/ML systems
+- Enterprise workflow automation
+- Full-stack internal platforms
+- Data and integration architecture
+- Applied AI product development
 
-| Project | What it is |
-| --- | --- |
-| Legal Tech | Practical experiments in legal AI, automation, architecture, and workflow design. |
-| Roguelike Game | A fast first-person roguelite built in Unreal Engine. Different realities. Same mission. |
-| Medical AI | Experiments around AI-assisted healthcare workflows and structured data. |
-| [personal-brand-website](https://github.com/JoeBuildsAI/personal-brand-website) | Personal site, case studies, products, technical writing, and things I actually shipped. |
+## Projects
 
-<sub>A few of these live in private repos for now. When they're ready for daylight, they'll show up on the site.</sub>
-
-## The operating system
-
-```text
-INPUT
-  legal problems
-  weird workflows
-  APIs
-  coffee
-  questionable ideas
-
-PROCESS
-  architecture
-  automation
-  AI
-  code
-  "one last edge case"
-
-OUTPUT
-  something useful
-  shipped to production
-  (usually)
-```
+- Legal Tech
+- Medical AI
+- Personal Brand Website
 
 ## Find me
 
-- **Website:** [personal-brand-website](https://github.com/JoeBuildsAI/personal-brand-website) — case studies, products, and writing
+- **Website:** [personal-brand-website](https://github.com/JoeBuildsAI/personal-brand-website)
 - **GitHub:** [@JoeBuildsAI](https://github.com/JoeBuildsAI)
 
 <p align="center">
-  <em>Turning legal problems into software problems, and software problems into shipped products.</em>
+  <em>Production over prototypes.</em>
 </p>
